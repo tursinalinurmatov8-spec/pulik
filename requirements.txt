@@ -1,0 +1,10 @@
+aiogram==3.24.0
+aiohttp
+aiosqlite
+python-dotenv
+pillow
+python-docx
+groq
+google-generativeai
+wikipedia
+requests
